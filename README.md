@@ -1,6 +1,7 @@
 # EmpDepartment
 Employee Department Management Module using Spring boot 
 
-CRUD API usin Spring JPA
+CRUD API using Spring JPA
+
 DataBase : MySQL
 
